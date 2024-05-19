@@ -35,7 +35,9 @@ namespace SistemaCandidatos
                     somaNotas += nota;
                 }
                 Console.WriteLine();
-                Console.WriteLine("-----------------------------------");
+                Console.WriteLine("------------------------------------------");
+                Console.WriteLine("          Candidatos Concurso         ");
+                Console.WriteLine("------------------------------------------");
                 Console.WriteLine("Candidato           Nota        Status");
 
                 for (int i = 0; i < n; i++)
@@ -57,8 +59,7 @@ namespace SistemaCandidatos
 
                 float mediaNotas = somaNotas / n;
 
-                Console.WriteLine();
-                Console.WriteLine("-----------------------------------");
+                Console.WriteLine("------------------------------------------");
                 Console.WriteLine("Aprovados: " + aprovados);
                 Console.WriteLine("Reprovados: " + reprovados);
                 Console.WriteLine("Nota média: " + mediaNotas);

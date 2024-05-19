@@ -5,3 +5,10 @@ C:\Users\redsg\source\repos\SistemaCandidatos\obj\Debug\SistemaCandidatos.csproj
 C:\Users\redsg\source\repos\SistemaCandidatos\obj\Debug\SistemaCandidatos.csproj.CoreCompileInputs.cache
 C:\Users\redsg\source\repos\SistemaCandidatos\obj\Debug\SistemaCandidatos.exe
 C:\Users\redsg\source\repos\SistemaCandidatos\obj\Debug\SistemaCandidatos.pdb
+C:\Users\redsg\OneDrive\Documentos\GitHub\Meus Projetos\candidatos-concurso\SistemaCandidatos\bin\Debug\SistemaCandidatos.exe.config
+C:\Users\redsg\OneDrive\Documentos\GitHub\Meus Projetos\candidatos-concurso\SistemaCandidatos\bin\Debug\SistemaCandidatos.exe
+C:\Users\redsg\OneDrive\Documentos\GitHub\Meus Projetos\candidatos-concurso\SistemaCandidatos\bin\Debug\SistemaCandidatos.pdb
+C:\Users\redsg\OneDrive\Documentos\GitHub\Meus Projetos\candidatos-concurso\SistemaCandidatos\obj\Debug\SistemaCandidatos.csproj.AssemblyReference.cache
+C:\Users\redsg\OneDrive\Documentos\GitHub\Meus Projetos\candidatos-concurso\SistemaCandidatos\obj\Debug\SistemaCandidatos.csproj.CoreCompileInputs.cache
+C:\Users\redsg\OneDrive\Documentos\GitHub\Meus Projetos\candidatos-concurso\SistemaCandidatos\obj\Debug\SistemaCandidatos.exe
+C:\Users\redsg\OneDrive\Documentos\GitHub\Meus Projetos\candidatos-concurso\SistemaCandidatos\obj\Debug\SistemaCandidatos.pdb
